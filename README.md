@@ -2,7 +2,7 @@
 
 My name is Fredd Somm.
 
-- 🔭 I’m currently working on staff-better.com and freddsomm.com
+- 🔭 I’m currently working on https://staff-better.com and https://freddsomm.com
 - 🌱 I’m currently learning about life.
 - 👯 I’m looking to collaborate on with any kind and motivated person.
 - 💬 Ask me about travel, life, your project.
