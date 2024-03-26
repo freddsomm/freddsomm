@@ -6,6 +6,6 @@ My name is Fredd Somm.
 - 🌱 I’m constantly learning about life.
 - 👯 I’m looking to collaborate with any kind and motivated person.
 - 💬 Ask me about travel, life or 'roasting' your project.
-- 📫 How to reach me: https://twitter.com/freddsomm https://www.linkedin.com/in/fredericsomm/
+- 📫 How to reach me: https://twitter.com/freddsomm or https://www.linkedin.com/in/fredericsomm/
 - ⚡ Fun fact: I was born in Kobe, Japan.
 
