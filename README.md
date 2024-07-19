@@ -2,7 +2,7 @@
 
 My name is Fredd Somm.
 
-- 🔭 I’m currently working on https://indiehacker.info and https://freddsomm.com
+- 🔭 I’m currently working on https://indiehacker.info
 - 🌱 I’m constantly learning about life.
 - 👯 I’m looking to collaborate with any kind and motivated person.
 - 💬 Ask me about travel, life or IndieHacking.
