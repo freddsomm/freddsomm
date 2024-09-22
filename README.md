@@ -2,7 +2,7 @@
 
 My name is Fredd Somm.
 
-- 🔭 I’m currently working on https://indiehacker.info
+- 🔭 I’m currently working on Internet Garden with my wife: https://internetgarden.co, which includes https://indiehacker.info, https://marrybirds.com or https://aboutyourgoals.com
 - 🌱 I’m constantly learning about life.
 - 👯 I’m looking to collaborate with any kind and motivated person.
 - 💬 Ask me about travel, life or IndieHacking.
