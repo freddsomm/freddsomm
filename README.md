@@ -2,7 +2,7 @@
 
 My name is Fredd Somm.
 
-- 🔭 I’m currently working on Tiny Holding Company Internet Garden (https://internetgarden.co) with my wife (https://github.com/minamicode), which includes https://indiehacker.info, https://marrybirds.com or https://aboutyourgoals.com
+- 🔭 I’m currently working on the Tiny Holding Company named Internet Garden (https://internetgarden.co) with my wife (https://github.com/minamicode), which includes https://indiehacker.info, https://marrybirds.com or https://aboutyourgoals.com
 - 🌱 I’m constantly learning about life.
 - 👯 I’m looking to collaborate with any kind and motivated person.
 - 💬 Ask me about travel, life or IndieHacking.
