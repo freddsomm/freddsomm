@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fredd Somm.
+My name is [Fredd Somm](https://freddsomm.com).
 
 - 🔭 I’m currently working on the Tiny Holding Company named Internet Garden (https://internetgarden.co) with my wife, which includes https://indiehacker.info, https://marrybirds.com or https://aboutyourgoals.com
 - 🌱 I’m constantly learning about life.
