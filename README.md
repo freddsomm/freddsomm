@@ -2,7 +2,7 @@
 
 My name is [Fredd Somm](https://freddsomm.com).
 
-- 🔭 I’m working with my wife on our tiny holding company, Internet Garden (https://internetgarden.co). Our projects include MarryBirds (https://marrybirds.com), PayrollRabbit (https://payrollrabbit.com), UPI QR Code Generator (https://upiqrcodegenerator.com), and About Your Goals (https://aboutyourgoals.com).
+- 🔭 I’m working with my wife on our tiny holding company, Internet Garden (https://internetgarden.co). Our projects include PayrollRabbit (https://www.payrollrabbit.com), MarryBirds (https://marrybirds.com), UPI QR Code Generator (https://upiqrcodegenerator.com), and About Your Goals (https://aboutyourgoals.com).
 - 🌱 I’m constantly learning about life.
 - 👯 I’m looking to collaborate with any motivated, positive and reflective person.
 - 💬 Ask me about travel, life or IndieHacking.
