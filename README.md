@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Fred/ Fredd/ Frederic](https://frederic.in/).
+My name is [Frederic](https://frederic.in/).
 
 - 🔭 I’m working with my wife on our tiny holding company, Internet Garden (https://internetgarden.co). Our projects include PayrollRabbit (https://www.payrollrabbit.com), MarryBirds (https://marrybirds.com) and UPI QR Code Generator (https://upiqrcodegenerator.com).
 - 🌱 I’m constantly learning about life.
