@@ -2,7 +2,7 @@
 
 My name is [Frederic](https://frederic.in/).
 
-- 🔭 I’m working with my wife on our tiny holding company, Internet Garden (https://internetgarden.co). Our projects include PayrollRabbit (https://www.payrollrabbit.com), MarryBirds (https://marrybirds.com) and UPI QR Code Generator (https://upiqrcodegenerator.com).
+- 🔭 I’m working with my wife on our tiny holding company, Internet Garden (https://internetgarden.co). Our projects include PayrollRabbit (https://www.payrollrabbit.com), MarryBirds (https://marrybirds.com) and Remote Corgi (https://www.remotecorgi.com/).
 - 🌱 I’m constantly learning about life.
 - 👯 I’m looking to collaborate with any motivated, positive and reflective person.
 - 💬 Ask me about travel, life or IndieHacking.
